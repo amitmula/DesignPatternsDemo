@@ -9,5 +9,6 @@
   <modules>
   	<module>FactoryPatternDemo</module>
   	<module>AbstractFactoryPatternDemo</module>
+  	<module>SingletonPatternDemo</module>
   </modules>
 </project>
