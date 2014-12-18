@@ -10,5 +10,6 @@
   	<module>FactoryPatternDemo</module>
   	<module>AbstractFactoryPatternDemo</module>
   	<module>SingletonPatternDemo</module>
+  	<module>BuilderPatternDemo</module>
   </modules>
 </project>
