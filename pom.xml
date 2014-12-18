@@ -8,5 +8,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>FactoryPatternDemo</module>
+  	<module>AbstractFactoryPatternDemo</module>
   </modules>
 </project>
