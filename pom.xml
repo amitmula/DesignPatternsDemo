@@ -11,5 +11,6 @@
   	<module>AbstractFactoryPatternDemo</module>
   	<module>SingletonPatternDemo</module>
   	<module>BuilderPatternDemo</module>
+  	<module>PrototypePatternDemo</module>
   </modules>
 </project>
